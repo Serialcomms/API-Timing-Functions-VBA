@@ -19,3 +19,5 @@ Microsoft Win32 API Timing Functions in VBA7
   
 </p>
 </details>  
+
+QPC functions can be used for time-interval measurements, e.g. before and after your code.
