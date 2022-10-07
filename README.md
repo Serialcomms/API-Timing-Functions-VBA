@@ -9,3 +9,13 @@ Microsoft Win32 API Timing Functions in VBA7
 | `get_qpc_seconds()`                  | Returns number of Seconds since last system boot                                                              | 
 | `get_qpc_milliseconds()`             | Returns number of Milliseconds since last system boot                                                         |
 | `get_qpc_microseconds()`             | Returns number of Microseconds since last system boot                                                         |
+
+
+<details><summary>Win32 Function References</summary>
+<p>
+
+[Query Performance Frequency](https://learn.microsoft.com/en-us/windows/win32/api/profileapi/nf-profileapi-queryperformancefrequency)  
+[Query Performance Counter](https://learn.microsoft.com/en-us/windows/win32/api/profileapi/nf-profileapi-queryperformancecounter)
+  
+</p>
+</details>  
