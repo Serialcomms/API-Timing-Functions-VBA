@@ -62,7 +62,7 @@ Loop Until Wait_Expired
 
 End Sub
 
-Public Function TimeStamp() As String               ' returns VBA time with Millseconds suffix - HH.MM.SS.mmm
+Public Function TimeStamp() As String               ' returns VBA time with Millseconds suffix - HH:MM:SS.mmm
 
 ' Application.Volatile  ' for Excel Worksheet cell use only
 
