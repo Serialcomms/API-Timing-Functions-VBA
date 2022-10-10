@@ -1,4 +1,5 @@
 Attribute VB_Name = "VBA_TIMING_FUNCTIONS_32"
+' https://github.com/Serialcomms/API-Timing-Functions-VBA
 Option Explicit
 
 Private Declare PtrSafe Sub Kernel_Sleep_Milliseconds Lib "Kernel32.dll" Alias "Sleep" (ByVal Sleep_Milliseconds As Long)
